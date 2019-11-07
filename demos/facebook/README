@@ -7,3 +7,6 @@ Connect URL set to the domain the this demo will be running on
 for this application must be passed on the command line:
 
     python facebook.py --facebook_api_key=ABC --facebook_secret=XYZ
+
+
+调用 Facebook，由于国内无法访问 Facebook ，索引此示例无法正常运行

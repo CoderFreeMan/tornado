@@ -9,6 +9,7 @@ from urllib.parse import urljoin, urldefrag
 from tornado import gen, httpclient, ioloop, queues
 
 base_url = "http://www.tornadoweb.org/en/stable/"
+# base_url = "http://www.91hilife.com/"
 concurrency = 10
 
 

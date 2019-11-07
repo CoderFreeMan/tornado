@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 """A simplistic Twitter viewer to demonstrate the use of TwitterMixin.
 
+因为 Twitter 在国内不开放，所以无法正常使用
 To run this app, you must first register an application with Twitter:
   1) Go to https://dev.twitter.com/apps and create an application.
      Your application must have a callback URL registered with Twitter.
